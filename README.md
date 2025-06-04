@@ -87,7 +87,7 @@
 
 - 📬 Email: [patlolla.akhil@gmail.com](mailto:patlolla.akhil@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/akhilreddypatlolla](https://www.linkedin.com/in/akhilreddypatlolla)
-- 🗂 Resume: [Akhil Patlolla - PDF](https://raw.githubusercontent.com/akhilpatlolla/main/Akhil%20Patlolla.pdf)
+- 🗂 Resume: [Download PDF](https://github.com/akhilpatlolla/akhilpatlolla/raw/main/Akhil%20Patlolla.pdf)
 
 ---
 
