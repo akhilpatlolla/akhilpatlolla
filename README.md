@@ -22,9 +22,9 @@
 
 ```python
 class AkhilPatlolla:
-    role       = "Senior Data Engineer @ Avathon"
+    role       = "AWS Cloud Solution Engineer IV @ Spectrum"
     location   = "Charlotte, NC 👑"
-    experience = "7+ years — AWS, Avathon, Spectrum, Aspen Capital, Madison Logic"
+    experience = "7+ years — Spectrum, Avathon, Aspen Capital, AWS, Madison Logic"
 
     building   = ["Unified industrial data platform on Apache Iceberg",
                   "Config-driven ingestion feeding analytics + AI use cases",
@@ -111,8 +111,8 @@ class AkhilPatlolla:
 ## 🗺️ Journey
 
 ```text
+NOW  ─▶ 📡 Spectrum           AWS Cloud Solution Eng IV   Redshift dimensional modeling, SCD
 2025 ─▶ 🏭 Avathon            Senior Data Engineer        Industrial data + AI platform, Iceberg
-2024 ─▶ 📡 Spectrum           AWS Cloud Solution Eng IV   Redshift dimensional modeling, SCD
 2022 ─▶ 💰 Aspen Capital      Senior Data Engineer        AWS migration, Icehouse lakehouse
 2021 ─▶ ☁️  Amazon Web Services Data Engineer             DynamoDB, streaming, DLQ recovery
 2018 ─▶ 📈 Madison Logic      Big Data Engineer           PySpark on Glue, Snowflake, Delta Lake
