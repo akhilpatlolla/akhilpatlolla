@@ -41,37 +41,6 @@ class AkhilPatlolla:
 
 ---
 
-## 🏗️ What I Build
-
-```mermaid
-flowchart LR
-    subgraph Sources
-        A[(OLTP DBs<br/>MySQL · Oracle · Postgres)]
-        B[[SaaS APIs<br/>Salesforce · Sage Intacct]]
-        C{{Streams<br/>Kafka · Kinesis · IoT}}
-    end
-    subgraph Ingest["⚙️ Ingest & Orchestrate"]
-        D[DMS · Glue · Airflow/MWAA<br/>config-driven connectors]
-    end
-    subgraph Lakehouse["🧊 Lakehouse"]
-        E[Bronze → Silver → Gold<br/>Spark · Iceberg · Delta]
-    end
-    subgraph Serve["📊 Serve"]
-        F[Redshift · Snowflake · BigQuery<br/>Athena · BI Dashboards]
-    end
-    subgraph AI["🧠 AI Layer"]
-        G[Embeddings → Vector DB<br/>Pinecone · FAISS · OpenSearch]
-        H[LLMs & Agents<br/>Bedrock · OpenAI · Claude]
-    end
-    A --> D
-    B --> D
-    C --> D
-    D --> E --> F
-    E --> G --> H
-```
-
----
-
 ## 🧰 Tech Stack
 
 <p align="center">
