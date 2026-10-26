@@ -23,7 +23,7 @@
 ```python
 class AkhilPatlolla:
     role       = "Senior Data Engineer @ Avathon"
-    location   = "Austin, TX 🤠"
+    location   = "Charlotte, NC 👑"
     experience = "7+ years — AWS, Avathon, Spectrum, Aspen Capital, Madison Logic"
 
     building   = ["Unified industrial data platform on Apache Iceberg",
