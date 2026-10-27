@@ -111,7 +111,7 @@ class AkhilPatlolla:
 ## 🗺️ Journey
 
 ```text
-NOW  ─▶ 📡 Spectrum           AWS Cloud Solution Eng IV   Redshift dimensional modeling, SCD
+NOW  ─▶ 📡 Spectrum           AWS Cloud Solution Eng IV   PySpark on EMR + Airflow, Redshift dimensional modeling
 2025 ─▶ 🏭 Avathon            Senior Data Engineer        Industrial data + AI platform, Iceberg
 2022 ─▶ 💰 Aspen Capital      Senior Data Engineer        AWS migration, Icehouse lakehouse
 2021 ─▶ ☁️  Amazon Web Services Data Engineer             DynamoDB, streaming, DLQ recovery
